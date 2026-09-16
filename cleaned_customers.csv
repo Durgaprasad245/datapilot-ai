@@ -1,0 +1,7 @@
+customer_id,name,email,age,city
+101,John,john@email.com,28.0,Atlanta
+102,Sarah,,31.0,Dallas
+103,Mike,mike@email.com,25.0,Atlanta
+104,David,david@email.com,,Houston
+105,Lisa,lisa@email.com,29.0,Atlanta
+106,Robert,robert@email.com,,Miami
